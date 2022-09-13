@@ -3,6 +3,12 @@ Implementation of a **decision tree** method (both by using scikit-learn library
 
 <h2>Model From Scratch:</h2>
 
+The initial dataset is as follows:
+
+![My Image](1.png)
+
+![My Image](2.png)
+
 I put the data from the restaurant intp **pandas dataframe** as follows:
 
 ```ruby
