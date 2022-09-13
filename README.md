@@ -5,9 +5,9 @@ Implementation of a **decision tree** method (both by using scikit-learn library
 
 The initial dataset is as follows:
 
-![My Image](1.png)
+<img src="1.png" width="200" height="400">
 
-![My Image](2.png)
+<img src="2.png" width="200" height="400">
 
 I put the data from the restaurant intp **pandas dataframe** as follows:
 
